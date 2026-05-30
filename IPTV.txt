@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026-05-30 05:29:48,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+2026-05-31 01:18:02,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
 央视频道,#genre#
 CCTV-1综合,http://60.223.72.54:8002/rtp/226.0.2.153:9136$山西联通
