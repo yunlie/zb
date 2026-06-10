@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026-06-09 23:21:25,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+2026-06-11 04:00:44,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
 央视频道,#genre#
 
